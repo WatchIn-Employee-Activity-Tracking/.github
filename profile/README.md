@@ -1,12 +1,21 @@
-## Hi there 👋
+# WatchIn: Employee Activity Tracking
 
-<!--
+### Team ID: CC25-CF019
 
-**Here are some ideas to get you started:**
+### Team Member
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+|  Bangkit ID  |               Name              | Learning Path | GitHub Profile                                  |
+| ------------ | ------------------------------- | ------------- | ----------------------------------------------- |
+| MC811D5Y0336 | Tarq Hilmar Siregar	  |       Machine Learning Engineer      | [Tarq](https://github.com/tarqhilmarsiregar)      |
+| MC004D5Y1124 | Rasendra Akbar Satyatama	        |       Machine Learning Engineer      | [Rasen](https://github.com/rasendraas)              |
+| MC004D5X1425 | Fitri Fatma Dewi	                |       Machine Learning Engineer      | [Fitri](https://github.com/fitrifatmadewi)           |
+| FC811D5Y0753 | Davian Putra Swardana	            |       Front-End dan Back-End Developer      | [Davian](https://github.com/bangkennn) |
+| FC811D5Y0758 | Farid Hidayat	             |       Front-End dan Back-End Developer      | [Farid](https://github.com/fariidhii)    |
+
+### Project Oveview
+
+WatchIn merupakan solusi inovatif yang dirancang untuk mengatasi tantangan pemantauan aktivitas karyawan secara real-time di lingkungan kerja modern. Dengan mayoritas aktivitas berpusat di depan komputer, tim HR dan manajer sering kesulitan dalam menilai kedisiplinan dan efektivitas kerja. WatchIn hadir sebagai sistem otomatis yang memberikan visibilitas instan terhadap aktivitas karyawan, memberdayakan organisasi untuk mengoptimalkan produktivitas, meningkatkan akuntabilitas, dan membuat keputusan berbasis data untuk manajemen kinerja.
+
+### Features
+Beberapa fitur yang telah kami kembangkan yaitu:
+- Realtime Drowsiness Detection
