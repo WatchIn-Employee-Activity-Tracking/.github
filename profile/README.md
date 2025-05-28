@@ -1,3 +1,5 @@
+![WatchIn Logo](https://github.com/user-attachments/assets/3742ab65-5019-4332-9258-4dcbb4cc00e5)
+
 # WatchIn: Employee Activity Tracking
 
 ### Team ID: CC25-CF019
