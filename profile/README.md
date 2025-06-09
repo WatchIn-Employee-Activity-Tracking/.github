@@ -6,7 +6,7 @@
 
 ### Team Member
 
-|  Bangkit ID  |               Name              | Learning Path | GitHub Profile                                  |
+|  Student ID  |               Name              | Learning Path | GitHub Profile                                  |
 | ------------ | ------------------------------- | ------------- | ----------------------------------------------- |
 | MC811D5Y0336 | Tarq Hilmar Siregar	  |       Machine Learning Engineer      | [Tarq](https://github.com/tarqhilmarsiregar)      |
 | MC004D5Y1124 | Rasendra Akbar Satyatama	        |       Machine Learning Engineer      | [Rasen](https://github.com/rasendraas)              |
