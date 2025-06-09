@@ -21,3 +21,4 @@ WatchIn merupakan solusi inovatif yang dirancang untuk mengatasi tantangan peman
 ### Features
 Beberapa fitur yang telah kami kembangkan yaitu:
 - Realtime Drowsiness Detection
+- Capture and Logging Activity
